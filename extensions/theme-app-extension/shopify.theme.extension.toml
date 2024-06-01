@@ -1,6 +1,6 @@
 [extension]
 name = "Timer Widget"
-type = "theme"
+type = "theme-app-extension"
 
 [scripts]
 assets = ["assets/timer-widget.js"]
